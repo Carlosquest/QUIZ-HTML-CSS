@@ -1,0 +1,74 @@
+
+*{
+background-color: #ffffec;
+
+}
+.navbar {
+    overflow: hidden;
+    margin-left: 8vw;
+    font-weight: bold;
+  }
+  
+  
+  .navbar a {
+    float: left;
+    color: rgb(2,0,36);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: auto;
+  }
+  
+ 
+
+h1{
+    text-align: center;
+}
+
+table{
+    
+    border: solid 1px;
+    margin: 0 auto;
+    
+}
+
+button{
+border: 1px solid;
+
+}
+
+.negrilla{
+    font-weight: bold;
+}
+
+.detalle{
+
+    width: 50vw;
+    height: 40vh;
+}
+
+.tamaño{
+    padding-left: 5vh;
+}
+
+.input{
+border-radius: 5px;
+width: 20vw;
+height: 5vh;
+}
+
+.enviar{
+    border-radius: 5px;
+    width: 15vw;
+    height: 5vh;
+    padding: 0.5em 1em;
+    border: none;
+    background-color:  #62ff74;
+    cursor: pointer;
+    text-align: center;
+
+    
+}
+
+
